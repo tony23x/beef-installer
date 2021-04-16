@@ -9,7 +9,7 @@
 Script que automatiza la instalación de BeEF (The Browser Exploitation Framework) desde GitHub.
 
 
-## Para usarlo ejecuta como root:
+## Para usarlo ejecuta:
 
 (en orden):
         
@@ -23,6 +23,7 @@ Script que automatiza la instalación de BeEF (The Browser Exploitation Framewor
 
 
 Y listo!
+# Aviso 
 En caso de disro el directorio  beef  estara en la variable de entorno $HOME, en termux en $PREFIX/opt
 
 * Kali Linux (PC, Userland)
