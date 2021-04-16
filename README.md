@@ -30,8 +30,9 @@ En caso de disro el directorio  beef  estara en la variable de entorno $HOME, en
 * Termux
 
 # Previews:
-## Kali Linux
+## Kali Termux
 <p align="center">
+<img src="https://user-images.githubusercontent.com/55555800/115059425-28bd7300-9eac-11eb-89c7-f867da9058ae.jpg" alt="PREVIEW">
 <img src="#" alt="PREVIEW">
 </p>
 
