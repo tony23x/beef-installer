@@ -6,6 +6,9 @@
 ![version]
 ![Tested]
 
+[![paga](https://img.shields.io/badge/Dona/Apoya-Aquí-green.svg)](https://www.paypal.me/th3pr3d4t0r)
+
+
 Script que automatiza la instalación de BeEF (The Browser Exploitation Framework) desde GitHub.
 
 
