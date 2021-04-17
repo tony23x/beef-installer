@@ -23,12 +23,10 @@ Script que automatiza la instalación de BeEF (The Browser Exploitation Framewor
 
 
 Y listo!
-# Aviso 
-En caso de disro el directorio  beef  estara en la variable de entorno $HOME, en termux en $PREFIX/opt
 
-* Kali Linux (PC, Userland)
-* Kali Nethunter Rootless
-* Termux
+# Aviso 
+En caso de distro el directorio  beef  estará en la variable de entorno $HOME, en termux en $PREFIX/opt
+
 
 # Previews:
 ## Termux
